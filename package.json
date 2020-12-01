@@ -1,6 +1,6 @@
 {
     "name": "ch.zomg.link-merger",
-    "version": "0.1.0",
+    "version": "1.0.0",
     "displayName": "Link Merger",
     "description": "Small utility package that merges all link.xml files in dependencies on build time."
 }
